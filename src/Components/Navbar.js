@@ -135,7 +135,7 @@ const Navbar = () => {
                   borderColor: "#ff8c00",
                 },
               }}
-              href="https://trade.hcfinvest.com/login"
+              href="https://www.heddgecapitals.com/login"
             >
               Login
             </Button>
@@ -148,7 +148,7 @@ const Navbar = () => {
                   color: "white",
                 },
               }}
-              href="https://trade.hcfinvest.com/register"
+              href="https://www.heddgecapitals.com/signup"
             >
               Register
             </Button>
@@ -161,7 +161,7 @@ const Navbar = () => {
                   color: "white",
                 },
               }}
-              href="https://trade.hcfinvest.com/register"
+              href="https://www.heddgecapitals.com/signup"
             >
               Demo Account
             </Button>
@@ -252,7 +252,7 @@ const Navbar = () => {
                     borderColor: "#ff8c00",
                   },
                 }}
-                href="https://trade.hcfinvest.com/login"
+                href="https://www.heddgecapitals.com/login"
               >
                 Login
               </Button>
@@ -266,7 +266,7 @@ const Navbar = () => {
                     backgroundColor: "#e67300 !important",
                   },
                 }}
-                href="https://trade.hcfinvest.com/register"
+                href="https://www.heddgecapitals.com/signup"
               >
                 Register
               </Button>
@@ -274,7 +274,7 @@ const Navbar = () => {
                 variant="contained"
                 fullWidth
                 sx={{ backgroundColor: "gray" }}
-                href="https://trade.hcfinvest.com/register"
+                href="https://www.heddgecapitals.com/signup"
               >
                 Demo Account
               </Button>
